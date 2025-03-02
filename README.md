@@ -28,4 +28,4 @@ facebook/mbart-large-50-many-to-many-mmt: Pre-trained models from Hugging Face
 	          DI = P(Outcome|Group A) / P(Outcome|Group B)
       This metric evaluates whether one group is disproportionately favoured compared to another.
 
-**Deployed app link:** https://team25-aiml-capstone-project.hf.space/
+**Deployed app link:** https://huggingface.co/spaces/Team25/AIML_Capstone_Project (private)
