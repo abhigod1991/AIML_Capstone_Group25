@@ -2,15 +2,15 @@
 This repository contains artifacts of AIML Capstone project
 
 **Objective**
-Explore and utilize available Generative AI models for the machine translation task.
-Understand Bias Detection in Machine Translation
-Identify unintended prejudices or stereotypes in translated text.
+1. Explore and utilize available Generative AI models for the machine translation task.
+2. Understand Bias Detection in Machine Translation
+3. Identify unintended prejudices or stereotypes in translated text.
 
 **Dataset: WinoMT**
 
-en.txt: Full corpus
-Source Languages: Spanish, Hindi 
-Target Language: English
+1. en.txt: Full corpus
+2. Source Languages: Spanish, Hindi 
+3. Target Language: English
 
 **Model**
 facebook/mbart-large-50-many-to-many-mmt: Pre-trained models from Hugging Face
